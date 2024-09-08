@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrunoK12
+- 👋 Hi, I’m @BrunoK12, I'm 20 years old and i'm in the 8th cycle of the physics degree in PUCP (Lima, Peru)
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Physics in PUCP, i'm learning python, sql and r.
 - 💞️ I’m looking to collaborate on any kind of projects where I can contribute and learn to be an applied data analyst for research and business
